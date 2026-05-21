@@ -1,3 +1,12 @@
+Pre-entrega Node JS
+
+Comisión: 26134
+
+Profesor: Ferreira Jean Paul 
+
+Alumno: Sánchez Justo Pastor
+
+
 El proyecto consiste en una herramienta de consola desarrollada en Node.js para gestionar los productos de una tienda online mediante la conexión con la API de FakeStore.
 
 La aplicación permite interactuar con los productos utilizando distintos métodos HTTP, brindando una experiencia simple desde la terminal para consultar, 
